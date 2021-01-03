@@ -4,11 +4,11 @@ This is a little project in python in form of game Snake,Water &amp; Gun Game. I
 ![maxresdefault](https://user-images.githubusercontent.com/76898024/103474408-856ba680-4d71-11eb-832d-d348a79f923d.jpg)
 
 
-#usage
+# usage
 copy the link https://github.com/minefuture09/Snake-Water-Gun-Game-In-python 
 
-#For Linux 
+# For Linux 
 git clone https://github.com/minefuture09/Snake-Water-Gun-Game-In-python
 
-#For Windows 
+# For Windows 
 Just Download the file and run on any python IDE
